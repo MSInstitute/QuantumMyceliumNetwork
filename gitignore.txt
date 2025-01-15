@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# Testing
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+coverage.xml
+*.cover
+.hypothesis/
+
+# Documentation
+docs/_build/
+docs/api/
+
+# Data
+*.csv
+*.json
+*.pkl
+*.h5
+*.npy
+*.npz
+
+# Logs
+logs/
+*.log
+
+# Local development
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+local_settings.py
+
+# Quantum simulation temporary files
+quantum_states/
+simulation_results/
+
+# Visualization outputs
+visualization/output/
+*.png
+*.jpg
+*.svg
+*.pdf
