@@ -32,9 +32,9 @@ python examples/basic_network.py
 ## 📚 Documentation
 
 - [Installation Guide](docs/installation.md)
-- [API Reference](docs/api/architecture.md)
-- [Research Paper](docs/research/main_paper.md)
-- [Network Visualization](docs/tutorials/visualization.md)
+- [API Reference](docs/api.md)
+- [Research Paper](docs/research_paper.md)
+- [Network Visualization](docs/ResearchDoc.md)
 
 ## 🔬 Research
 
