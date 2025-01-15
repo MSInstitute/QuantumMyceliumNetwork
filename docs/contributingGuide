@@ -1,0 +1,56 @@
+# Contributing to Quantum Mycelium Network
+
+We love your input! We want to make contributing to Quantum Mycelium Network as easy and transparent as possible.
+
+## Development Process
+
+We use GitHub to host code, to track issues and feature requests, as well as accept pull requests.
+
+## Pull Request Process
+
+1. Fork the repo and create your branch from `main`.
+2. If you've added code that should be tested, add tests.
+3. If you've changed APIs, update the documentation.
+4. Ensure the test suite passes.
+5. Make sure your code lints.
+6. Issue that pull request!
+
+## Code Style
+
+- Use Black for Python code formatting
+- Follow PEP 8 guidelines
+- Add type hints to function definitions
+- Write docstrings for all functions and classes
+
+## Testing
+
+```bash
+# Run tests
+pytest tests/
+
+# Run with coverage
+pytest --cov=quantum_mycelium tests/
+```
+
+## Documentation
+
+- Update the README.md with details of changes to the interface
+- Update the API documentation if endpoints change
+- Add notes to the CHANGELOG.md about changes
+
+## Code of Conduct
+
+### Our Standards
+
+* Using welcoming and inclusive language
+* Being respectful of differing viewpoints and experiences
+* Gracefully accepting constructive criticism
+* Focusing on what is best for the community
+
+### Our Responsibilities
+
+Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+
+## License
+
+By contributing, you agree that your contributions will be licensed under its MIT License.
