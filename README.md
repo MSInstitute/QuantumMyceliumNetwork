@@ -31,7 +31,7 @@ python examples/basic_network.py
 
 ## 📚 Documentation
 
-- [Installation Guide](docs/tutorials/quickstart.md)
+- [Installation Guide](docs/Installation.md)
 - [API Reference](docs/api/architecture.md)
 - [Research Paper](docs/research/main_paper.md)
 - [Network Visualization](docs/tutorials/visualization.md)
