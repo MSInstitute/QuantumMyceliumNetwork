@@ -2,7 +2,7 @@
 
 A biomimetic approach to decentralized research validation using quantum-enabled mycelial networks.
 
-![Network Visualization](visualization/assets/images/network_preview.png)
+![Network Visualization](docs/network_visualization.md)
 
 ## 🍄 Overview
 
