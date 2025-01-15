@@ -62,11 +62,11 @@ Our system demonstrates significant improvements over traditional methods:
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](contributingGuide.md) for details.
+- We welcome contributions! Please see our [Contributing Guide](contributingGuide.md) for details.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](docs/license) file for details.
+- This project is licensed under the MIT License - see the [LICENSE](docs/license) file for details.
 
 ## 🏗 Project Structure
 
@@ -81,11 +81,11 @@ quantum-mycelium-network/
 
 ## 🔗 Related Projects
 
-- [Quantum Biology Framework](https://github.com/example/quantum-bio)
-- [Mycelial Computing](https://github.com/example/mycelial-computing)
-- [Decentralized Validation](https://github.com/example/decent-validate)
+- [Quantum Biology Framework](docs/related/quantum_biology_framework.md)
+- [Mycelial Computing](docs/related/mycelial_computing.md)
+- [Decentralized Validation](docs/related/decentralized_validation.md)
 
-## ✨ Acknowledgments
+- ✨ [Acknowledgments](docs/acknowledgments.md).
 
 This work was supported by grants from:
 - International Blockchain Research Foundation
