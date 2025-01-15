@@ -62,7 +62,7 @@ Our system demonstrates significant improvements over traditional methods:
 
 ## 🤝 Contributing
 
-- We welcome contributions! Please see our [Contributing Guide](contributingGuide.md) for details.
+- We welcome contributions! Please see our [Contributing Guide](docs/contributingGuide) for details.
 
 ## 📄 License
 
