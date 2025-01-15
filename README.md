@@ -85,7 +85,7 @@ quantum-mycelium-network/
 - [Mycelial Computing](docs/related/mycelial_computing.md)
 - [Decentralized Validation](docs/related/decentralized_validation.md)
 
-- ✨ [Acknowledgments](docs/acknowledgments.md).
+- ✨ [Acknowledgments](docs/related/acknowledgments.md).
 
 This work was supported by grants from:
 - International Blockchain Research Foundation
