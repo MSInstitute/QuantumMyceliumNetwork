@@ -40,8 +40,8 @@ python examples/basic_network.py
 
 Our research has been published in leading journals:
 
-- [Main Publication](research/papers/main_publication.pdf)
-- [Supplementary Materials](research/papers/supplementary/)
+- [Main Publication](docs/mainPublication.pdf)
+- [Supplementary Materials]c(research/papers/supplementary/)
 
 ## 🛠 Technology Stack
 
@@ -62,11 +62,11 @@ Our system demonstrates significant improvements over traditional methods:
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+We welcome contributions! Please see our [Contributing Guide](contributingGuide.md) for details.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](docs/license) file for details.
 
 ## 🏗 Project Structure
 
