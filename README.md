@@ -40,7 +40,7 @@ python examples/basic_network.py
 
 Our research has been published in leading journals:
 
-- [Main Publication](docs/mainPublication.md)
+- [Main Publication](docs/mainPublication)
 - [Supplementary Materials]c(research/papers/supplementary/)
 
 ## 🛠 Technology Stack
